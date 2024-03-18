@@ -5,8 +5,8 @@
 - 📫 How to reach me ca17450845@gmail.com
 - 😄 Pronouns: He/his
 
+<h1> Sistema de Registro</h1>
 
-<!---
-CarlosAvila1745/CarlosAvila1745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estado del proyecto: En construcción. 
+Para ejecutar el sistema, debes poner:
+"npm install react" |
