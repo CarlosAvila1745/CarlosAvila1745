@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java, Java Script, Html and Css
 - 💞️ I’m looking to collaborate on projects to improve my programming logic
 - 📫 How to reach me ca17450845@gmail.com
-- 😄 Pronouns: He/his
 
 <h1> Sistema de Registro</h1>
 
